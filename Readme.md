@@ -4,6 +4,5 @@ instructions to run :
 ```
 git clone https://github.com/GabiYamato/today.git .
 cd today
-npm run build
-npm run electron
+npm run dev
 ```
